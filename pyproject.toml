@@ -1,0 +1,9 @@
+[project]
+name = "real-estate-data-scraping"
+version = "0.1.0"
+description = "Scraped data from a local Real estate agency for educational purpose."
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "selenium>=4.35.0",
+]
